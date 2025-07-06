@@ -1,0 +1,18 @@
+.onclick{
+width: 200px;
+border-radius: 12px;
+background-color: darkgray;
+display: flex;
+gap: 10px;
+align-self: center;
+
+}
+.notclick{
+width: 200px;
+border-radius: 12px;
+background-color: black;
+display: flex;
+gap: 10px;
+align-self: center;
+
+}
