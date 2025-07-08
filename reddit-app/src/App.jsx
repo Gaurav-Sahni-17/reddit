@@ -1,14 +1,7 @@
-import NavBar from './component/NavBar/index.jsx';
-import { SideDash } from './component/SideDash/SideDash.jsx';
-import './App.css'
-
 function App() {
- 
-
   return (
     <>
-   <NavBar/>  
-   <SideDash/>
+    <h1 className='text-2xl text-red-300'>gh</h1>
     </>
   )
 }
